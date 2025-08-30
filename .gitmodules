@@ -1,0 +1,4 @@
+[submodule "external/monte-carlo-pricer"]
+	path = external/monte-carlo-pricer
+	url = https://github.com/helzeiah/monte-carlo-pricer
+	branch = main
