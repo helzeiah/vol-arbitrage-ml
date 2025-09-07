@@ -1,4 +1,4 @@
-# Machine Learning Volatility Arbitrage (MVP), currenty WIP
+# Machine Learning Volatility Arbitrage (WIP)
 
 This project explores **volatility arbitrage** strategies by comparing **implied volatility (VIX)** with realized and predicted volatility estimates.  
 Currently, the project implements a full **end-to-end MVP pipeline**: data collection, feature engineering, signal generation, backtesting, and performance evaluation.
